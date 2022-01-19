@@ -14,7 +14,9 @@
 * 問題は２問あります
 * ２問クリアすると「連打ゲーム」にオンラインランキング機能を実装したアプリが完成します
 * 問題を取り組む上で必要な開発環境は以下です
-  - AndroidStudio ver.3.4.1 以上
+  - MacOS Big Sur 11.6 
+  - Android Studio Arctic Fox 2020.3.1
+  - Pixle 3 - Android 12 (Simulator)
   - Android SDK v3.0.2（導入済み）
     - SDK v2系だと動作しないので注意
 
